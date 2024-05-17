@@ -39,12 +39,13 @@ Conecte o display LCD 16x2 com interface I2C à placa Arduino seguindo o esquema
 
 Utilize o esquema a seguir como guia, se prefirir:
 
-
-#### ⚠️ Caso prefira fazer a montagem e testar on-line utilize o site [WOKIWI](https://wokwi.com/) 
   <details>
     <summary>Imagem do circuito:</summary>
     <img src="edge_challenge.png"  />
   </details>
+
+#### ⚠️ Caso prefira fazer a montagem e testar on-line utilize o site [WOKIWI](https://wokwi.com/) 
+
  
 ### 2. Instalação das Bibliotecas📚:
 
