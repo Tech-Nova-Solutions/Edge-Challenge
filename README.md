@@ -43,7 +43,7 @@ Utilize o esquema a seguir como guia, se prefirir:
 #### ⚠️ Caso prefira fazer a montagem e testar on-line utilize o site [WOKIWI](https://wokwi.com/) 
   <details>
     <summary>Imagem do circuito:</summary>
-    <img src=" "  />
+    <img src="edge_challenge.png"  />
   </details>
  
 ### 2. Instalação das Bibliotecas📚:
@@ -72,8 +72,8 @@ O monitor de distância começará a medir e exibir a distância no display LCD.
 ## Autores 🖋️
 ### Este projeto foi realizado por alunos de Engenharia de Software da FIAP da turma 1ESPH 2024.1
 
-- [Giulia Barbizan]()
-- [Leonardo Rocha]()
-- [Felipe Marques]()
-- [Gustavo Viega]()
+- [Giulia Barbizan](https://github.com/Giulia-Rocha)
+- [Leonardo Rocha](https://github.com/leonardorscarpitta)
+- [Felipe Marques](https://github.com/FelipeMarquesdeOliveira)
+- [Gustavo Viega](https://github.com/Vieg4)
 
