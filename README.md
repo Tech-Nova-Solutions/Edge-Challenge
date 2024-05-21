@@ -1,4 +1,4 @@
-#  Monitor de Proximidade 🏎️
+#  Near Guard 🏎️
 
 ## Descrição 📝
 Este projeto consite na criação de um dispositivo para medir a distância entre outro obstáculo e/ou oponente.
