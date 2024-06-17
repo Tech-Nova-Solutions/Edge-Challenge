@@ -78,3 +78,6 @@ O monitor de distância começará a medir e exibir a distância no display LCD.
 - [Felipe Marques](https://github.com/FelipeMarquesdeOliveira)
 - [Gustavo Viega](https://github.com/Vieg4)
 
+## Links Úteis
+- [Vídeo Explicativo](https://drive.google.com/file/d/1SSNNZ1F2SLhcvNJ_fjcd2Xa8hvBz-uaZ/view?usp=sharing)
+
